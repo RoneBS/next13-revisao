@@ -1,5 +1,5 @@
 export const Teste = () => {
   return (
-    <div>Teste</div>
+    <div>Novo teste</div>
   )
 }
